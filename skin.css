@@ -1,0 +1,90 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+html{
+    background-image: url("Background.png");  
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    font-family: 'Arial', sans-serif;
+}
+#logo{
+    margin-top: 2%;
+    margin-left: 1%;
+    width: 10%;
+}
+
+h1{
+    color: cyan;
+    margin-left: 5%;
+    margin-top: 80px;
+    font-size: 40px;
+    font-weight: normal;
+    font-size: 38 px;
+}
+
+h3{
+    color: cyan;
+    margin-top: 75px;
+    font-size: 18px;
+}
+
+p{
+    color: white;
+    margin-top: 9px;
+    font-size: 10x;
+}
+ 
+div{
+    display: inline-block;
+    margin-left: 10%;
+    margin-bottom: 150px;
+}
+
+#Projects{
+    width: 17.5%;
+    font-weight: normal;
+    margin-left:5%;
+
+}
+
+#Team{
+    width: 17.5%;
+    font-weight: normal;
+    margin-left:5%;
+}
+
+#Sponsors{
+    width: 17.5%;
+    font-weight: normal;
+    margin-left:5%;
+}
+
+#burger{
+    width: 2%;
+    margin-top: 1%;
+    margin-right: 1%;
+    float: right;
+}
+
+#Arrow{
+    display: block;
+    margin-left: 50%;
+    margin-right: 50%;
+    margin-bottom: 30px;
+    width: 30px;
+    height: 20px;
+}
+
+#Pages{
+    display: block;
+    float: right;
+    margin-right:1%;
+    margin-bottom: 1%;
+}
+
+span{
+   padding: 5px;
+}
